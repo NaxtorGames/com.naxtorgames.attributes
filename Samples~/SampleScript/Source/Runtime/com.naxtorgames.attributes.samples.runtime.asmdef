@@ -1,0 +1,16 @@
+{
+    "name": "com.naxtorgames.attributes.samples.runtime",
+    "rootNamespace": "NaxtorGames.Attributes.Samples",
+    "references": [
+        "GUID:4a420443ac69d3c4380d230dcc9ca2f3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "com.naxtorgames.attributes.editor",
+    "rootNamespace": "NaxtorGames.Attributes.EditorScripts",
+    "references": [
+        "GUID:4a420443ac69d3c4380d230dcc9ca2f3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

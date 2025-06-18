@@ -1,0 +1,15 @@
+{
+  "name": "com.naxtorgames.attributes",
+  "displayName": "Naxtor Games Attributes",
+  "version": "1.0.0",
+  "author": "Naxtor Games",
+  "description": "A collection of property attributes.",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Sample Script",
+      "description": "A sample script for some usecases.",
+      "path": "Samples~/SampleScript"
+    }
+  ]
+}
