@@ -39,7 +39,7 @@ namespace NaxtorGames.VehicleController.EditorScripts
             }
         }
 
-        [MenuItem("Tools/Update Layer Names")]
+        [MenuItem("Tools/Naxtor Games/Attributes/Update Layer Names")]
         private static void ForceLayerNamesUpdate()
         {
             s_isDirty = true;
